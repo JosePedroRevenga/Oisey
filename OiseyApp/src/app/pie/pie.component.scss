@@ -1,0 +1,26 @@
+footer{
+    background-color: #00E7FF;
+    padding-bottom: 5px;
+    margin-top: 2.5%;
+
+    >div:first-of-type{
+        text-align: center;
+        img{
+            width: 2.5%;
+            min-width: 32px;
+            min-height: 40px;
+        }
+    }
+    >div:last-of-type{
+        text-align: center;
+        color: #fff;
+    }
+    a{
+        color: #fff;
+        text-decoration: none;
+    }
+    a:hover{
+        color: #999;
+    }
+
+}
